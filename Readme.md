@@ -1,4 +1,4 @@
-#football-fan
+# football-fan
 
 Are you a football fan?
 This CLI quiz which test your football knowledge . It has 5 questions and will score you accordingly.
